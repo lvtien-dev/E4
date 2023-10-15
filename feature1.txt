@@ -1,2 +1,5 @@
 add fe1
 on vm
+a
+b
+c
